@@ -1,0 +1,18 @@
+body {
+  font-family: Archivo;
+  background-color: red;
+  color: white;
+  }
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+h1 {
+  font-size:50px;
+  img-caption: 25px;
+}
+h5 {
+  font-size: 20px;
+
+}
